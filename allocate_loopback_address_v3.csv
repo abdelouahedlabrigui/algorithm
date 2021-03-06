@@ -1,0 +1,8 @@
+,routers,interfaces,loopbacks
+0,R1,interface loopback 1,192.168.1.1 255.255.255.255
+1,R2,interface loopback 1,192.168.2.1 255.255.255.255
+2,R3,interface loopback 1,192.168.3.1 255.255.255.255
+3,R4,interface loopback 1,192.168.4.1 255.255.255.255
+4,R5,interface loopback 1,192.168.5.1 255.255.255.255
+5,R6,interface loopback 1,192.168.6.1 255.255.255.255
+6,R7,interface loopback 1,192.168.7.1 255.255.255.255
